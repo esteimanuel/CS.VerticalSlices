@@ -1,0 +1,7 @@
+.ionide/
+.vs/
+.vscode/
+bin/
+obj/
+*.user
+**/Properties/launchSettings.json
